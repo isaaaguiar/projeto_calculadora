@@ -9,10 +9,10 @@
 **Projeto:** Projeto Calculadora  
 **Contexto:** FinançApp  
 **Aluno:** Isabelle Aguiar  
-**RA:** XXXXXXX  
-**Curso:** Nome do curso  
-**Disciplina:** Nome da disciplina  
-**Professor:** Nome do professor  
+**RA:** 250927
+**Curso:** Análise e desenvolvimento de sistemas
+**Disciplina:** UX/UI
+**Professor:** Daniel Ohata
 **Semestre:** 2026.2  
 
 ---
@@ -222,4 +222,4 @@ javadoc -d docs -encoding UTF-8 -charset UTF-8 -sourcepath src calculadora
 
 # 15. Link do Repositório
 
-https://github.com/SEU_USUARIO/projeto_calculadora
+https://github.com/isaaaguiar/projeto_calculadora.git
